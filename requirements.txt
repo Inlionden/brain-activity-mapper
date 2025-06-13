@@ -1,0 +1,11 @@
+# Web framework for creating the interactive UI
+gradio
+
+# Google Gemini API for keyword extraction
+google-generativeai
+
+# For numerical operations and vector math
+numpy
+
+# For downloading and using GloVe word embedding models
+gensim
